@@ -1,49 +1,40 @@
-<h1 align="center">Blockscout</h1>
-<p align="center">Blockchain Explorer for inspecting and analyzing EVM Chains.</p>
-<div align="center">
+```
+Moduu Defii - Blockchain Developer
 
-[![Blockscout](https://github.com/blockscout/blockscout/workflows/Blockscout/badge.svg?branch=master)](https://github.com/blockscout/blockscout/actions)
-[![](https://dcbadge.vercel.app/api/server/blockscout?style=flat)](https://discord.gg/blockscout)
-
-</div>
+## About Me
+As a passionate blockchain developer, I'm excited to share my portfolio with you. With expertise in Solidity, Web3.js, and Truffle Suite, I've developed secure and efficient smart contracts for various blockchain platforms.
 
 
-Blockscout provides a comprehensive, easy-to-use interface for users to view, confirm, and inspect transactions on EVM (Ethereum Virtual Machine) blockchains. This includes Ethereum Mainnet, Ethereum Classic, Optimism, Gnosis Chain and many other **Ethereum testnets, private networks, L2s and sidechains**.
+## Projects
+### Blockscout - Blockchain Explorer
+Blockscout is an open-source blockchain explorer for inspecting and analyzing EVM Chains. I've contributed to the project, providing a comprehensive interface for users to view, confirm, and inspect transactions.
 
-See our [project documentation](https://docs.blockscout.com/) for detailed information and setup instructions.
+#### Features
 
-For questions, comments and feature requests see the [discussions section](https://github.com/blockscout/blockscout/discussions) or via [Discord](https://discord.com/invite/blockscout).
+* Search transactions and view accounts and balances
+* Verify and interact with smart contracts
+* View and interact with applications on the Ethereum network
 
-## About Blockscout
+#### Supported Projects
 
-Blockscout allows users to search transactions, view accounts and balances, verify and interact with smart contracts and view and interact with applications on the Ethereum network including many forks, sidechains, L2s and testnets.
+Blockscout currently supports several hundred chains and rollups throughout the greater blockchain ecosystem, including Ethereum, Cosmos, Polkadot, Avalanche, and Near.
 
-Blockscout is an open-source alternative to centralized, closed source block explorers such as Etherscan, Etherchain and others.  As Ethereum sidechains and L2s continue to proliferate in both private and public settings, transparent, open-source tools are needed to analyze and validate all transactions.
-
-## Supported Projects
-
-Blockscout currently supports several hundred chains and rollups throughout the greater blockchain ecosystem. Ethereum, Cosmos, Polkadot, Avalanche, Near and many others include Blockscout integrations. [A comprehensive list is available here](https://docs.blockscout.com/about/projects). If your project is not listed, please submit a PR or [contact the team in Discord](https://discord.com/invite/blockscout).
 
 ## Getting Started
+Interested in learning more about blockchain development? Check out the following resources:
 
-See the [project documentation](https://docs.blockscout.com/) for instructions:
 
-- [Requirements](https://docs.blockscout.com/for-developers/information-and-settings/requirements)
-- [Ansible deployment](https://docs.blockscout.com/for-developers/ansible-deployment)
-- [Manual deployment](https://docs.blockscout.com/for-developers/manual-deployment)
-- [ENV variables](https://docs.blockscout.com/for-developers/information-and-settings/env-variables)
-- [Configuration options](https://docs.blockscout.com/for-developers/configuration-options)
+* [Solidity Documentation](https://solidity.readthedocs.io/)
+* [Web3.js Documentation](https://web3js.readthedocs.io/)
 
 ## Acknowledgements
+I'd like to thank the blockchain community for their continuous support and guidance.
 
-We would like to thank the [EthPrize foundation](http://ethprize.io/) for their funding support.
 
 ## Contributing
+Want to contribute to my portfolio or collaborate on a project? Please see my [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution and pull request protocol. We expect contributors to follow our [code of conduct](CODE_OF_CONDUCT.md) when submitting code or comments.
 
 ## License
-
-[![License: GPL v3.0](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-
-This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for details.
+This portfolio is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+``
